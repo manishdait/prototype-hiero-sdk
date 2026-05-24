@@ -20,7 +20,7 @@
     <maven.compiler.source>21</maven.compiler.source>
     <maven.compiler.target>21</maven.compiler.target>
     <protobuf.version>4.35.0</protobuf.version>
-    <grpc.version>1.75.0</grpc.version>
+    <grpc.version>1.81.0</grpc.version>
     <dotenv.version>3.2.0</dotenv.version>
     <bouncycastle.version>1.84</bouncycastle.version>
     <jspecify.version>1.0.0</jspecify.version>
